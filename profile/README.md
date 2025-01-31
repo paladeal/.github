@@ -1,11 +1,30 @@
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/b5bd20b3-8e84-40d1-89aa-36a12a52892c" width="300">
-</div>
+# 🚀 Welcome to Paladeal!
 
+We develop **next-generation e-commerce solutions**, providing seamless integrations and powerful management tools for online businesses.
 
-## 🌍 Our Mission
-- Building high-quality software
+## 🌟 What We Do
+- 📊 **E-commerce Dashboards** – Advanced analytics & business management tools
+- 🔗 **Multi-Platform Integrations** – Expanding beyond Shopify to Amazon, Rakuten, and more
+- ⚡ **Scalable & Serverless Architecture** – Optimized with AWS and Rails API
+- 🤝 **Automated Order Processing** – Simplifying workflows with webhook-based automation
 
-## 📢 Latest Updates
-comming sooon！！！🚀
----
+## 🔧 Tech Stack
+| **Category**    | **Technologies** |
+|---------------|----------------|
+| **Frontend**  | Remix, React |
+| **Backend**   | Rails API, Node.js |
+| **Database**  | MySQL |
+| **Infrastructure** | AWS, Docker|
+
+## 🚀 Latest Projects
+### comming soon!
+
+## 🛠 Our Mission
+We aim to **redefine digital commerce** by building scalable, AI-powered solutions that empower businesses across multiple platforms. Our focus is on:
+- 🚀 **Automation & Optimization** – Reducing manual work and increasing efficiency
+- 🎯 **Data-Driven Decision Making** – Providing actionable insights for merchants
+- 🤝 **Seamless Connectivity** – Unifying online sales across different ecosystems
+
+## 📢 Get in Touch
+💡 Interested in working with us? Let’s talk!  
+📧 **[Contact Us](mailto:info@your-org.com)** | 🌐 [Website](https://your-org.com)  
