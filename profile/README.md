@@ -27,4 +27,5 @@ We aim to **redefine digital commerce** by building scalable, AI-powered solutio
 
 ## 📢 Get in Touch
 💡 Interested in working with us? Let’s talk!  
-📧 **[Contact Us](developer@paladeal.com)** | 🌐 [Website](https://paladeal.jp)  
+📧 Contact Us: developer@paladeal.com
+
