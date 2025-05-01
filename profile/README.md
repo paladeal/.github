@@ -11,7 +11,7 @@ We develop **next-generation e-commerce solutions**, providing seamless integrat
 ## 🔧 Tech Stack
 | **Category**    | **Technologies** |
 |---------------|----------------|
-| **Frontend**  | Remix, React |
+| **Frontend**  | Next.js, React |
 | **Backend**   | Rails API, Node.js |
 | **Database**  | MySQL |
 | **Infrastructure** | AWS, Docker|
