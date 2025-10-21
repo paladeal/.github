@@ -16,8 +16,11 @@ We develop **next-generation e-commerce solutions**, providing seamless integrat
 | **Database**  | MySQL |
 | **Infrastructure** | AWS, Docker|
 
-## 🚀 Latest Projects
+## Corporate Side
 ### https://www.paladeal.jp/
+
+## 🚀 Latest Projects
+### https://ws.paladeal.com/
 
 ## 🛠 Our Mission
 We aim to **redefine digital commerce** by building scalable, AI-powered solutions that empower businesses across multiple platforms. Our focus is on:
