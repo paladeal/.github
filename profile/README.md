@@ -16,7 +16,7 @@ We develop **next-generation e-commerce solutions**, providing seamless integrat
 | **Database**  | MySQL |
 | **Infrastructure** | AWS, Docker|
 
-## Corporate Side
+## 🏠　Corporate Side
 ### https://www.paladeal.jp/
 
 ## 🚀 Latest Projects
