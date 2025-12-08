@@ -12,7 +12,7 @@ We develop **next-generation e-commerce solutions**, providing seamless integrat
 | **Category**    | **Technologies** |
 |---------------|----------------|
 | **Frontend**  | Next.js, React |
-| **Backend**   | Rails API, Node.js, Gin(Golang) |
+| **Backend**   | Rails API, Gin(Golang) |
 | **Database**  | MySQL |
 | **Infrastructure** | AWS, Docker, Ory/Hydra, Ory/kratos|
 
