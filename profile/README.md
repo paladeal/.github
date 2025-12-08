@@ -13,7 +13,7 @@ We develop **next-generation e-commerce solutions**, providing seamless integrat
 |---------------|----------------|
 | **Frontend**  | Next.js |
 | **Backend**   | Rails API, Gin(Golang) |
-| **Database**  | MySQL, DynamoDB, Valkey |
+| **Database**  | Aurora Mysql, DynamoDB, Valkey |
 | **Infrastructure** | AWS, Docker, Ory/Hydra, Ory/kratos|
 
 ## 🏠　Corporate Site
