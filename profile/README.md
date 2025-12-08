@@ -12,9 +12,9 @@ We develop **next-generation e-commerce solutions**, providing seamless integrat
 | **Category**    | **Technologies** |
 |---------------|----------------|
 | **Frontend**  | Next.js, React |
-| **Backend**   | Rails API, Node.js |
+| **Backend**   | Rails API, Node.js, Gin(Golang) |
 | **Database**  | MySQL |
-| **Infrastructure** | AWS, Docker|
+| **Infrastructure** | AWS, Docker, Ory/Hydra, Ory/kratos|
 
 ## 🏠　Corporate Site
 ### https://www.paladeal.jp
