@@ -11,7 +11,7 @@ We develop **next-generation e-commerce solutions**, providing seamless integrat
 ## 🔧 Tech Stack
 | **Category**    | **Technologies** |
 |---------------|----------------|
-| **Frontend**  | Next.js, React |
+| **Frontend**  | Next.js |
 | **Backend**   | Rails API, Gin(Golang) |
 | **Database**  | MySQL, DynamoDB, Valkey |
 | **Infrastructure** | AWS, Docker, Ory/Hydra, Ory/kratos|
