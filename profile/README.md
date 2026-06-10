@@ -21,7 +21,7 @@ We develop **next-generation e-commerce solutions**, providing seamless integrat
 
 ## 🚀 Latest Projects
 ### https://ws.paladeal.com
-### https://cx-portal.paladeal.com/
+### https://cx-portal.paladeal.com
 
 ## 🛠 Our Mission
 We aim to **redefine digital commerce** by building scalable, AI-powered solutions that empower businesses across multiple platforms. Our focus is on:
