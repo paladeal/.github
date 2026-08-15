@@ -51,7 +51,7 @@ https://collexion.jp/
 
 Paladealでは、コマース領域を中心に複数の事業・プロダクトを展開しています。
 
-### Paladeal JPG
+### Paladeal Japan Growth
 
 グループ会社のWebサイトはこちらです。
 
