@@ -1,74 +1,79 @@
-# 🚀 Paladealへようこそ
+# paladeal, Inc.
 
-Paladealは、ブランドや卸事業者と、商品を販売する小売事業者・インフルエンサーをつなぐコマースプラットフォームを開発しています。
+**本音が響き、経済が鼓動し、社会は輝く。**<br>
+Authentic Voices, Vibrant Economy, Radiant Society.
 
-商品情報の管理から、商品を探す、サンプルを依頼する、販売する、注文する、発送するといった、コマースに関わるさまざまな業務を、テクノロジーによってよりシンプルにしていくことを目指しています。
+paladeal株式会社は、東京の AI 企業です。AI を真ん中に置いて、クリエイターが本音で選んだ本物が、ファンにまっすぐ届くコマースをつくっています。
 
-## 🌟 What We Do
+いま動いている製品は、クリエイターの「自分の店」**Collexion**（β版）と、メーカー・ブランド向けの **WS** です。ご連絡は [developer@paladeal.com](mailto:developer@paladeal.com) へどうぞ。
 
-* 📦 **商品情報・卸業務の管理**
-  ブランドや卸事業者の商品情報を一元管理し、登録・変更・承認などの業務を効率化します。
+🙌 **一緒につくるエンジニアを探しています。** まずは気軽に話を聞いてみませんか？ [developer@paladeal.com](mailto:developer@paladeal.com?subject=%E8%A9%B1%E3%82%92%E8%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%81%9F%E3%81%84) に「話を聞いてみたい」とひとこと送ってください（正社員・副業どちらの相談も歓迎です）。
 
-* 🤝 **ブランドと販売者をつなぐプラットフォーム**
-  小売事業者やインフルエンサーが商品を探し、サンプルや販売をリクエストできる環境を提供しています。
+paladeal, Inc. is an AI company based in Tokyo, Japan. We build Collexion, where creators open their own shop to share the products they truly believe in with their fans, and WS for manufacturers and brands. Our subsidiary, Paladeal Japan Growth K.K., helps overseas brands grow in Japan.
 
-* 🚚 **受発注・物流業務の効率化**
-  注文や配送など、商品が実際に流通するまでの業務をシステム化・自動化しています。
+## 🚀 Products
 
-* 🤖 **AIによる業務の自動化**
-  商品情報の取得・整理から、さまざまなコマース業務まで、AIを活用して人手に頼っていた作業を減らしていきます。
+### Collexion（β版・2026年7月14日リリース）
 
-## 🔧 Tech Stack
+クリエイターが本音で選んだ本物を、ファンに届けられる「自分の店」です。届けることも、そのあとのお客様とのやりとりも、運営が引き受けます。TikTok Shop・Instagram「Shop now」・YouTube ショッピングとつながり、始めるのは基本0円。いまは先行招待を受け付けています。
 
-| **Category**       | **Technologies**             |
-| ------------------ | ---------------------------- |
-| **Frontend**       | Next.js                      |
-| **Backend**        | Ruby on Rails, Node.js, Python|
-| **Database**       | PostgreSQL, DynamoDB, Valkey |
-| **Infrastructure** | AWS, Docker, ECS             |
-| **Authentication** | Ory Hydra, Ory Kratos        |
-| **AI**             | AWS Bedrock / LLMs           |
-
-## 🏠 Corporate Site
-
-https://www.paladeal.jp
-
-## 🚀 Our Products
+→ [collexion.jp](https://collexion.jp/?utm_source=github&utm_medium=org_readme)
 
 ### WS
 
-ブランド・卸事業者向けの商品管理プラットフォームです。
+メーカー・ブランド向けの、商品情報と卸の業務をまとめて扱う画面です（使うにはログインが要ります）。
 
-https://ws.paladeal.com
-
-### Collexion
-
-ブランドと販売者をつなぎ、商品の発見から販売までを支援するプラットフォームです。
-
-https://collexion.jp/
+→ [ws.paladeal.com](https://ws.paladeal.com/?utm_source=github&utm_medium=org_readme)
 
 ## 🏢 Group Company
 
-Paladealでは、コマース領域を中心に複数の事業・プロダクトを展開しています。
+### Paladeal Japan Growth株式会社（Paladeal Japan Growth K.K.）
 
-### Paladeal Japan Growth
+2026年5月1日に設立した、paladeal株式会社の100%子会社です。海外ブランドの日本での成長を、戦略の立案から現場の運営まで、1つのチームで支えています（KOL・SNS マーケティング、デジタル広告の運用、体験型プロモーション）。AI を組み込んで、少人数で新しい事業を立ち上げることにも取り組んでいます。
 
-グループ会社のWebサイトはこちらです。
+→ [paladeal-jpg.com](https://paladeal-jpg.com/?utm_source=github&utm_medium=org_readme)
 
-https://paladeal-jpg.com/
+## 🔧 Tech Stack
 
-## 🎯 Our Mission
+| Category | Technologies |
+| --- | --- |
+| Frontend | Next.js, Astro |
+| Backend | Ruby on Rails, Node.js, Python |
+| Database | PostgreSQL, DynamoDB, Valkey |
+| Infrastructure | AWS, Docker, ECS, Cloudflare |
+| Authentication | Ory Hydra, Ory Kratos |
+| AI | AWS Bedrock / LLMs |
 
-私たちが目指しているのは、単にECを便利にすることではありません。
+## 🤖 How we work with AI
 
-ブランドが商品を流通させ、販売者が商品を見つけ、消費者に届ける。
+paladeal では、AI と一緒に働く仕組みを社内でつくっています。資料・文章・連絡・記録の多くを AI が受け持ち、人は会話と会議と判断に集中する、という形を目指しています。開発でも、設計からテストまで AI と一緒に進めています。
 
-その間にある複雑な業務を一つずつなくし、**商品がもっと簡単に、もっと速く世の中に流れていく仕組み**をつくっていきます。
+## 🏠 Company
 
-そして、その中心にAIを取り入れ、これまで人が行ってきたコマース業務そのものを少しずつ変えていきます。
+| | |
+| --- | --- |
+| 社名 | paladeal株式会社（パラディール／paladeal, Inc.） |
+| 設立 | 2025年1月 |
+| 所在地 | 東京都（Tokyo, Japan） |
+| 代表 | 山口大輝 |
+| グループ会社 | Paladeal Japan Growth株式会社（100%子会社） |
+| 法人番号 | [8010401187502](https://www.houjin-bangou.nta.go.jp/henkorireki-johoto.html?selHouzinNo=8010401187502)（国税庁 法人番号公表サイト） |
 
-## 📢 Get in Touch
+## 📢 Contact
 
-Paladealのプロダクトや技術に興味を持っていただけた方は、ぜひご連絡ください。
+- 🙌 **一緒につくるエンジニアを探しています。** まずは気軽に話を聞いてみませんか？ [developer@paladeal.com](mailto:developer@paladeal.com?subject=%E8%A9%B1%E3%82%92%E8%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%81%9F%E3%81%84) に「話を聞いてみたい」とひとこと送ってください（正社員・副業どちらの相談も歓迎です）。
+- プロダクト・技術について：[developer@paladeal.com](mailto:developer@paladeal.com)
+- Collexion（クリエイターの方）：[creator@paladeal.com](mailto:creator@paladeal.com)
+- Paladeal Japan Growth（ブランドの方）：[お問い合わせフォーム](https://paladeal-jpg.com/contact/?utm_source=github&utm_medium=org_readme)
 
-📧 [developer@paladeal.com](mailto:developer@paladeal.com)
+## 🔗 Official links
+
+いま paladeal が公式に運営しているウェブサイトと窓口です。
+
+| | |
+| --- | --- |
+| Collexion | [collexion.jp](https://collexion.jp/?utm_source=github&utm_medium=org_readme) |
+| WS | [ws.paladeal.com](https://ws.paladeal.com/?utm_source=github&utm_medium=org_readme) |
+| Paladeal Japan Growth | [paladeal-jpg.com](https://paladeal-jpg.com/?utm_source=github&utm_medium=org_readme) |
+| GitHub | [github.com/paladeal](https://github.com/paladeal) |
+| メール | developer@paladeal.com ・ creator@paladeal.com |
